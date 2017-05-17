@@ -20,7 +20,7 @@ public class DrawingFrame extends JFrame {
 
 	private void setupFrame() {
 		this.setContentPane(basePanel);
-		this.setTitle("Shapes are amazing");
+		this.setTitle("draw graph");
 		this.setSize(new Dimension(1000, 1000));
 		this.setResizable(false);
 		this.setVisible(true);
